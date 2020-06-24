@@ -11,14 +11,14 @@ Well designed automotive suspension and steering systems must be developed takin
 
 The Matlab code found in the **RunDataCorneringTest.m** file generates 5 figures based on the exampleData.DAT data. Figures 1 and 2 provide a general visualization, so that the user roughly knows what to expect from the data, while Figures 3, 4 and 5 show the 3d graph where **Lateral Force** is plotted against **Slip Angle & Vertical Load** for three different camber angles.
 
-![Preview-Screens](https://github.com/patrickmetzner/TTC_FSAE/blob/master/Figure1.png)
+![Preview-Screens](https://github.com/patrickmetzner/TTC_FSAE/blob/master/Figure1.PNG)
 
-![Preview-Screens](https://github.com/patrickmetzner/TTC_FSAE/blob/master/Figure2.png)
+![Preview-Screens](https://github.com/patrickmetzner/TTC_FSAE/blob/master/Figure2.PNG)
 
-![Preview-Screens](https://github.com/patrickmetzner/TTC_FSAE/blob/master/Figure3.png)
+![Preview-Screens](https://github.com/patrickmetzner/TTC_FSAE/blob/master/Figure3.PNG)
 
-![Preview-Screens](https://github.com/patrickmetzner/TTC_FSAE/blob/master/Figure4.png)
+![Preview-Screens](https://github.com/patrickmetzner/TTC_FSAE/blob/master/Figure4.PNG)
 
-![Preview-Screens](https://github.com/patrickmetzner/TTC_FSAE/blob/master/Figure5.png)
+![Preview-Screens](https://github.com/patrickmetzner/TTC_FSAE/blob/master/Figure5.PNG)
 
 **Note that the FSAE TTC files are only available for teams that join the consortium, for this reason, minor changes were made to the axampleData.DAT file in order not to leak private data information concerning the tire model and test round.**
